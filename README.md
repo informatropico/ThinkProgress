@@ -287,3 +287,5 @@ export default function BlogPage({ frontmatter, contentHtml }) {
 ```
 
 ### Pubblicazione su Vercel
+
+https://www.thinkprogress.it/post/blog/blog
