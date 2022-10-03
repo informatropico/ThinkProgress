@@ -100,7 +100,7 @@ export default function Layout({ children }) {
       <main className="container mx-auto flex-1">{children}</main>
       <footer className="mt-8 py-4">
         <div className="container mx-auto flex justify-center">
-          &copy; 2022 Informatropico
+          © 2022 Informatropico
         </div>
       </footer>
     </div>
@@ -207,7 +207,7 @@ To create this file, create a `post` directory inside the `pages` directory 
 npm install markdown-it
 
 #oppure
-npm install remark remark-html
+npm install remark remark-html remark-gfm
 ```
 
 ```shell
@@ -239,6 +239,7 @@ import fs from "fs";
 import matter from "gray-matter";
 import { remark } from "remark";
 import html from "remark-html";
+import remarkGfm from 'remark-gfm'
 
 export async function getStaticPaths() {
   // Retrieve all our slugs
@@ -262,6 +263,7 @@ export async function getStaticProps({ params: { slug } }) {
 
   const processedContent = await remark()
     .use(html)
+    .use(remarkGfm)
     .process(content);
   const contentHtml = processedContent.toString();
 
@@ -283,9 +285,10 @@ export default function BlogPage({ frontmatter, contentHtml }) {
     </div>
   );
 }
-
 ```
+
+Non mi fa impazzire la gestione delle note, ma per il momento resta così.
 
 ### Pubblicazione su Vercel
 
-https://www.thinkprogress.it/post/blog/blog
+[https://www.thinkprogress.it/](https://www.thinkprogress.it/)
