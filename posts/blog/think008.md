@@ -43,8 +43,6 @@ Le cose si possono fare e tante volte basta semplicemente farle.
 A presto,
 M.
 
-## Note
-
 [^1]: "Per quanto difficile possa essere la vita, c’è sempre qualcosa che è possibile fare. Guardate le stelle invece dei vostri piedi” - *S. Hawking*.
 [^2]: Era un po' che volevo scrivere questi pensieri e ho trovato molto motivanti i primi episodi di una serie TV intitolata *For Life*. Non l'ho ancora finita, ma la spinta è stata sufficiente.
 [^3]: Intorno non significa per forza vicino in questo caso.

@@ -25,8 +25,5 @@ Oggi sei pun po' più di una spora appena atterrata in questo mondo, espanditi e
 A presto,
 M.
 
-## Note
-
-[^1]: [Fughi fantastici](https://www.netflix.com/it/title/81183477).
-
+[^1]: [Fughi fantastici](https://www.netflix.com/it/title/81183477).  
 Potete dare un'occhiata anche a questo TED: [L'internet della natura: come gli alberi comunicano e interagiscono in una foresta sana](https://www.youtube.com/watch?v=breDQqrkikM).

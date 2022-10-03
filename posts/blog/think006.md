@@ -31,7 +31,7 @@ Ultimo ma non ultimo, come padre devo essere per te testimone ed esempio di vita
 
 Ho provato a rappresentare con un disegno quello che ti ho scritto qui sopra e ne è venuto fuori questo:
 
-![Zattera degli obiettivi](../assets/images/think6.jpg "La mia zattera")
+![Zattera degli obiettivi](/images/think6.jpg "La mia zattera")
 
 Come vedi gli alberi non sono pronti per avere delle vele e navigare veloci, al momento mi muoverò a remi e credo molto lentamente ma con perseveranza anche questa zattera potrà diventare un barca. Prendiamola un po' come quei giochi in cui missione dopo missione costruisci un luogo sempre più ricco e all'avanguardia. 
 
@@ -46,8 +46,6 @@ M.
 
 Prima di iniziare questo viaggio ci sarebbero ancora due cose che dovrei dirti di me: perchè non uso il mio vero nome e perchè ho scelto questo nome.
 Per il primo non dovrai aspettare molto, per il secondo un po' di più.
-
-## Note
 
 [^1]: Probabilmente utilizzerò la tecnica "Focus sul tema" (magari con un po' di timeline). Nell'articolo precedente, se non lo hai letto, dovresti trovare qualche info in più.
 [^2]: Qui ci sarà un mix tra "Focus sull'obiettivo" e "Sonar".

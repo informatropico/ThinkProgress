@@ -21,12 +21,12 @@ La prima vera domanda a cui dovevo rispondere era: **“Che cos’è un padre?�
 
 Questa era la strada giusta, una domanda che non veniva dalla razionalità, una domanda che saliva da un punto più profondo, dallo stesso punto da cui è emersa la risposta: “Il padre è l’immagine dell’uomo impressa negli occhi del figlio”. A quel punto, mio caro E., le ginocchia cedono e dal profondo, da ancora più profondo, sale la domanda definitiva: **“Che uomo vuoi essere?”**.  
 
-![Crollo](../assets/images/crollo.jpg)[^3]
+![Crollo](/images/crollo.jpg)[^3]
 
 A questo punto non si torna più indietro, la trasformazione è iniziata e l’energia inizia scorrere nelle arterie insieme all’ossigeno, le ginocchia che avevano ceduto possono sostenere una corsa, respiri aria che non sembra quella di prima, di fronte a te si materializza un enorme blocco di marmo: quante cose diverse ci puoi scolpire?[^4]
 Inizi a sentire che qualcosa si è liberato, che tutto quello che ti identificava fino a quel momento inizia ad andare stretto, che hai bisogno di esprimerti per quello che sei veramente, che hai bisogno di raccontare e vivere la tua verità, che sei in astinenza da libertà, che ti senti soffocare dagli abiti che il mondo fino ad oggi ti ha convinto ad indossare e che tu hai sempre acconsentito ad indossare. Ti accorgi che nessuno ha sentito la tua vera voce.  
 
-![Energia](../assets/images/energia.jpg)[^5]  
+![Energia](/images/energia.jpg)[^5]  
 
 Ma tu, piccolo E., almeno tu la devi sentire. E la cosa fantastica è che non si può fingere di essere padre, non si può fingere di essere uomo. Se la sentirai tu, prima o poi la sentiranno tutti: allora questa è la crisi del me uomo che rinasce, che risveglia il suo io più profondo, che trova la sua dimensione originale. Che scopre il significato di felicità.  
 
@@ -47,8 +47,6 @@ Adesso alza il volume[^6]
 
 A presto,  
 M.
-
-## Note
 
 [^1]: Il complesso di Telemaco
 [^2]: Il gesto di Ettore

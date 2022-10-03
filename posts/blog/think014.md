@@ -19,7 +19,7 @@ Ma un giorno ho iniziato ed è quasi un anno che non mi fermo: ho iniziato a scr
 
 Ecco allora la prima foto: sicuramente tecnicamente sbagliata ma che continuo a guardare perché racconta quello che io ho visto in quegli attimi. Ho visto le proporzioni della natura, degli esseri viventi in questa Terra che ci sovrasta e ci sostiene.
 
-![Foto cavalli con montagne](../assets/images/primaFoto.jpg)
+![Foto cavalli con montagne](/images/primaFoto.jpg)
 
 Questa immagine rappresenta un nuovo inizio, una possibilità ancora ignota nella sua tecnica ma a cui ho destinato uno scopo: so **cosa** voglia che sia. Iniziare fa sempre paura, è prendersi un impegno con se stessi sull'ignoto, è scegliere di destinare il proprio tempo per realizzare quella cosa. Ma è il regalo più grande che puoi farti, dedicarti del tempo per realizzare quello che vuoi fare, godendoti ogni passo che ti separa dalla meta.
 

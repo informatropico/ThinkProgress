@@ -49,6 +49,4 @@ Spero di no caro E., prendi tutto quello che c'è scritto sopra e distruggilo pe
 A presto,
 M.
 
-## Note
-
 [^1]: Vedi *Matrix*.

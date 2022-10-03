@@ -53,7 +53,5 @@ C'è chi ha provato a distruggere l'umanità, ad annietare l'*essere* umano. Ogg
 A presto,
 M.
 
-## Note
-
 [^1]: *Il perdono responsabile* di Gherardo Colombo
 [^2]: *Basta così* di Wislawa Szymborska

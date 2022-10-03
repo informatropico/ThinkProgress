@@ -38,7 +38,5 @@ I **AM** 31 years old.
 A presto,
 M.
 
-## Note
-
 [^1]: Qui il [Link](https://www.netflix.com/title/81149184 "tick, tick... BOOM!") al musical su Netflix. 
 [^2]: [Spotify](https://open.spotify.com/track/55MIRLbZzpYSmMlRt9ZDWM?si=6744ccc2a0ad4d1a), [Youtube](https://www.youtube.com/watch?v=eh6-ZfWdnLQ), [Verisone cantata da Larson stesso](https://www.youtube.com/watch?v=Z6ueegKXqL8).

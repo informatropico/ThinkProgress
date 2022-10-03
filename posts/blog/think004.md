@@ -48,7 +48,5 @@ Ricorda delle stalagmiti di cui ti ho scritto[^2] due messaggi fa: prenditi la l
 A presto,
 M.
 
-## Note
-
 [^1]: Qualunque sia il destino di un'opinione la sua presenza rimane come punto di vista, come interrogativo su quel pezzo di mondo che la interessa. Se non sarà una tua passione ne saprai comunque qualcosa in più di "niente" (non male come prospettiva no?)
 [^2]: (Espanditi. Esplorare prima di scalare)[https://www.informatropico.it/espanditi/]

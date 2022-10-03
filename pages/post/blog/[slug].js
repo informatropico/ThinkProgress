@@ -2,6 +2,7 @@ import fs from "fs";
 import matter from "gray-matter";
 import { remark } from "remark";
 import html from "remark-html";
+import remarkGfm from 'remark-gfm'
 
 export async function getStaticPaths() {
   // Retrieve all our slugs
@@ -25,6 +26,7 @@ export async function getStaticProps({ params: { slug } }) {
 
   const processedContent = await remark()
     .use(html)
+    .use(remarkGfm)
     .process(content);
   const contentHtml = processedContent.toString();
 

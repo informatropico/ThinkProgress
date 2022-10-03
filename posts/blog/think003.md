@@ -5,8 +5,6 @@ abstract: "Dove si parla di Enea e di cosa mi ha ispirato"
 date: "2021-11-28"
 ---
 
-
-
 Caro E.,
 
 a quanto pare la figura del "padre" non risplende di vitalità e forza da "qualche" anno a questa parte.
@@ -33,8 +31,6 @@ Io mi sono ripromesso tra qualche tempo di rileggere questi testi e di creare un
 
 A presto,
 M.
-
-## Note
 
 [^1]: *"Il gesto di Ettore"* di Luigi Zoja e *"Il complesso di Telemaco"* di Massimo Recalcati
 [^2]: *"Il gesto di Ettore"* di Luigi Zoja
