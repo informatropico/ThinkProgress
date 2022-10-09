@@ -7,15 +7,15 @@ date: "2022-01-04"
 
 Caro E.,
 
-ti anticipo una scena a cui assisterai almeno quarantordici volte nella tua vita, di fatto ovunque andrai.
+ti anticipo una scena a cui assisterai almeno *quarantordici* volte nella tua vita, di fatto ovunque andrai.
 
-Arriverà ad un certo punto la persona che ti dirà che il mondo fa schifo, che le cose non funzionano, che era meglio prima (non chiedere prima quando perchè difficilmente saprà risponderti), che i giovani non hanno voglia di fare niente e non sono capaci di fare niente, che è tutta una fregatura (tutta cosa non si sa bene), che chissà dove andremo a finire così e credo tu abbia capito il tipo di persona. Ma attento a non sottovalutarla, perchè il tarlo che inietterà nel tuo cervello è potente, tanto che ad un certo punto potresti arrivare a credere che abbia ragione. Potresti ad un certo punto riuscire a vedere il mondo con le lenti speciali in grado di rilevare solo le cose che non funzionano. Te lo dico perchè a me è successo più volte e ad un certo punto ti potresti sentire in diritto anche tu di lamentarti delle stesse cose, di manifestare le tue frustrazioni, di sentirti vittima di una ingiustizia cosmica organizzata da un "sistema" che ti vuole mettere i bastoni tra le ruote.
+Arriverà ad un certo punto la persona che ti dirà che il mondo fa schifo, che le cose non funzionano, che era meglio prima (non chiedere prima quando perché difficilmente saprà risponderti), che i giovani non hanno voglia di fare niente e non sono capaci di fare niente, che è tutta una fregatura (tutta cosa non si sa bene), che chissà dove andremo a finire così e credo tu abbia capito il tipo di persona. Ma attento a non sottovalutarla, perché il tarlo che inietterà nel tuo cervello è potente, tanto che ad un certo punto potresti arrivare a credere che abbia ragione. Potresti ad un certo punto riuscire a vedere il mondo con le lenti speciali in grado di rilevare solo le cose che non funzionano. Te lo dico perché a me è successo più volte e ad un certo punto ti potresti sentire in diritto anche tu di lamentarti delle stesse cose, di manifestare le tue frustrazioni, di sentirti vittima di una ingiustizia cosmica organizzata da un "sistema" che ti vuole mettere i bastoni tra le ruote.
 
 Ma è proprio in quel momento che sorge dai meandri della società il saggio, colui dotato di illuminazione che allevierà ogni tua tensione con la massima delle massime, con il limite estremo della proattività: "Ma non ti lamentare, pensa a chi sta peggio di te".
 
 Sarcasmo a parte, fuggi da questa situazione. 
 
-Fuggi più veloce che puoi e non ti voltare mai indetro.
+Fuggi più veloce che puoi e non ti voltare mai indietro.
 
 Fuggi sia dalle lamentele sterili che dalla passività di un conforto triste e arrendevole. 
 
@@ -26,7 +26,7 @@ Ti accorgerai che starai fuggendo quando deciderai di fare qualcosa invece di la
 I problemi li avrai sempre con te stesso: puoi dare la colpa alla maestra, ai compagni, all'allenatore, alla politica o agli extraterresti, ma l'unica variabile che puoi controllare sei tu. Dare la colpa agli altri non risolverà i tuoi problemi, devi fare qualcosa tu per risolvere la situazione.
 Quello che farai determinerà che persona sei, il principio che metterai al centro delle tue decisioni definirà il tuo spessore.
 
-*Credi che sarai una persona di spessore se scegli di sentirti bene perchè c'è chi sta peggio di te? Pensi che sarai una persona responsabile se scegli di non fare perchè dovrebbero farlo gli altri?*
+*Credi che sarai una persona di spessore se scegli di sentirti bene perché c'è chi sta peggio di te? Pensi che sarai una persona responsabile se scegli di non fare perché dovrebbero farlo gli altri?*
 
 Prova a chiederti invece, con quello che hai a disposizione, cosa puoi fare? Come puoi porre anche solo un pezzettino di rimedio a situazioni che reputi ingiuste per te, per la società in cui vivi o per il mondo che abiti? Non conta dove abiti, non conta con chi abiti, conta solo quello che puoi e vorrai fare.
 
@@ -37,7 +37,7 @@ Se lo vuoi c'è sempre qualcosa che puoi fare per rendere di una briciola il mon
 Quando sono diventato tuo papà ho fatto un passo in profondità in queste considerazioni: diventare padre ti obbliga a fare. Non esiste burocrazia incasinata che tenga, regole difficili da comprendere o giornate difficili da coordinare. Non esiste luogo lontano, non esiste stanchezza e non esiste tempo per lo sconforto o il vittimismo.
 Quando hai un figlio fai tutto quello che puoi fare per costruire un ambiente accogliente e sano intorno[^3] a lui.
 
-Io forse l'ho capito un po' tardi e quindi te l'ho voluto scrivere perchè spero tu possa iniziare molto prima di quando ho iniziato io.
+Io forse l'ho capito un po' tardi e quindi te l'ho voluto scrivere perché spero tu possa iniziare molto prima di quando ho iniziato io.
 Le cose si possono fare e tante volte basta semplicemente farle.
 
 A presto,

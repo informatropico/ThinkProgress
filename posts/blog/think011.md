@@ -7,7 +7,7 @@ date: "2022-04-18"
 
 Caro E.,
 
-Ripensavo in questi giorni al compleanno appena trascorso e mi è tornata in mente una canzone di *Jonathan Larson* intitolata *30/90* che fa parte del musical *tick, tick... BOOM!* (da poco adattato da *Netflix[^1]*) in cui si canta del passaggio ai trentanni come una sorta di preludio al baratro, come l’inizio della fine, un traguardo da fuggire se fosse possibile.
+Ripensavo in questi giorni al compleanno appena trascorso e mi è tornata in mente una canzone di *Jonathan Larson* intitolata *30/90* che fa parte del musical *tick, tick... BOOM!* (da poco adattato da *Netflix[^1]*) in cui si canta del passaggio ai trent'anni come una sorta di preludio al baratro, come l’inizio della fine, un traguardo da fuggire se fosse possibile.
 
 La cosa bellissima è che la musica di quella canzone si adatta perfettamente al mio stato d’animo in questo compleanno tanto quanto il testo mi è distante.
 
@@ -21,7 +21,7 @@ Invece, ingresso della batteria, sono stato investito dalla bellezza e dall’af
 
 Il primo regalo che ho ricevuto (in ordine cronologico) è stata la consacrazione di una amicizia di quelle che non avevo mai provato prima. Probabilmente se la raccontassi molti mi direbbero che è proprio quella l’amicizia, allora io risponderei che non la avevo mai vista prima. E cosa c’è di più bello di ricevere qualcosa di nuovo per il tuo compleanno?
 
-E proprio perchè ricevere qualcosa di nuovo è l’attesa che si vive durante un compleanno, il secondo regalo che ho ricevuto è stato un tempo NUOVO con la mamma, un tempo nostro che prima non c’era, un tempo che non è nella linea del tempo, una nuova idea da coltivare insieme. Dopo tanti anni insieme ricevere questo regalo è la conferma di tante scelte fatte, di tante scelte giuste.
+E proprio perché ricevere qualcosa di nuovo è l’attesa che si vive durante un compleanno, il secondo regalo che ho ricevuto è stato un tempo NUOVO con la mamma, un tempo nostro che prima non c’era, un tempo che non è nella linea del tempo, una nuova idea da coltivare insieme. Dopo tanti anni insieme ricevere questo regalo è la conferma di tante scelte fatte, di tante scelte giuste.
 
 Capisci che allora anche i trentuno anni con queste premesse non possono che essere uno slancio verso la vita e verso il futuro.
 
