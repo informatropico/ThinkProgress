@@ -4,22 +4,24 @@ export default function Layout({ children }) {
   return (
     <div className="flex flex-col min-h-screen">
       <header className="mb-8 py-4">
-        <div className="container mx-auto flex justify-center">
+        <nav className="container px-4 justify-center flex space-x-10">
           <Link href="/">
-            <a>Think Progress</a>
+            <a className="">Think Progress</a>
           </Link>
           <Link href="/post/blog/blog">
-            <a>Blog</a>
+            <a className="">Blog</a>
           </Link>
           <Link href="/post/weeklysummary/weekly-summary">
-            <a>Weekly Summary</a>
+            <a className="">Weekly Summary</a>
           </Link>
           <Link href="/about">
-            <a>About</a>
+            <a className="">About</a>
           </Link>
-        </div>
+        </nav>
       </header>
+      
       <main className="container mx-auto flex-1">{children}</main>
+      
       <footer className="mt-8 py-4">
         <div className="container mx-auto flex justify-center">
           &copy; 2022 Informatropico

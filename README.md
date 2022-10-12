@@ -1,7 +1,8 @@
 ---
-fonti:
+urls:
     - "https://github.com/informatropico/nextjs-sample-blog/blob/main/README.md"
     - "https://blog.openreplay.com/creating-a-markdown-blog-powered-by-next-js-in-under-an-hour"
+    - "https://tailwindcss.com/docs/guides/nextjs"
 ---
 
 # Think progress
@@ -292,3 +293,12 @@ Non mi fa impazzire la gestione delle note, ma per il momento resta così.
 ### Pubblicazione su Vercel
 
 [https://www.thinkprogress.it/](https://www.thinkprogress.it/)
+
+## Versione 2: stile
+
+Tailwind setup
+
+```shell
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+```
