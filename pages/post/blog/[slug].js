@@ -40,7 +40,7 @@ export async function getStaticProps({ params: { slug } }) {
 
 export default function BlogPage({ frontmatter, contentHtml }) {
   return (
-    <div className="prose mx-auto">
+    <div className="prose mx-auto px-5">
       <h1>{frontmatter.title}</h1>
       <h2>{frontmatter.subtitle}</h2>
       <h3>{frontmatter.date}</h3>
