@@ -27,21 +27,21 @@ export async function getStaticProps() {
 
 export default function Blog({ posts }) {
   return (
-    <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 p-4 md:p-0">
+    <ul className="list-none prose mx-auto">
       {posts.map(({ slug, frontmatter }) => (
-        <div
+        <li
           key={slug}
           className="border border-gray-200 m-2 rounded-xl shadow-lg overflow-hidden flex flex-col"
         >
           <Link href={`/post/blog/${slug}`}>
-            <a>
-              <h1 className="p-4">{frontmatter.title}</h1>
-              <h2 className="p-5">{frontmatter.subtitle}</h2>
-              <h2 className="p-6">{frontmatter.date}</h2>
+            <a className="no-underline">
+              <h1 className="pt-4 pb-0 pl-4">{frontmatter.title}</h1>
+              <h2 className="pt-0 pb-0 pl-4">{frontmatter.subtitle}</h2>
+              <h3 className="pt-0 pb-4 pl-4">{frontmatter.date}</h3>
             </a>
           </Link>
-        </div>
+        </li>
       ))}
-    </div>
+    </ul>
   );
 }
