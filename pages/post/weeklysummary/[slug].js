@@ -41,9 +41,9 @@ export async function getStaticProps({ params: { slug } }) {
 export default function BlogPage({ frontmatter, contentHtml }) {
   return (
     <div className="prose mx-auto">
-      <h1>Weekly Summary</h1>
+      <h1>Settimana {frontmatter.week}</h1>
       <h2>
-        {frontmatter.sab} - {frontmatter.dom}
+        dal {frontmatter.sab} al {frontmatter.dom}
       </h2>
       <div dangerouslySetInnerHTML={{ __html: contentHtml }} />
     </div>

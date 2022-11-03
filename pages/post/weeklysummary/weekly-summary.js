@@ -27,17 +27,16 @@ export async function getStaticProps() {
 
 export default function WeeklySummary({ posts }) {
   return (
-    <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 p-4 md:p-0">
+    <div className="list-none prose mx-auto">
       {posts.map(({ slug, frontmatter }) => (
         <div
           key={slug}
           className="border border-gray-200 m-2 rounded-xl shadow-lg overflow-hidden flex flex-col"
         >
           <Link href={`/post/weeklysummary/${slug}`}>
-            <a>
-              <h1 className="p-4">
-                Settimana {frontmatter.sab} - {frontmatter.dom}
-              </h1>
+            <a className="no-underline">
+              <h1 className="pt-4 pb-0 pl-4">Settimana {frontmatter.week}</h1>
+              <h3 className="pt-0 pb-4 pl-4">dal {frontmatter.sab} al {frontmatter.dom}</h3>
             </a>
           </Link>
         </div>
