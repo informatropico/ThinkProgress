@@ -33,11 +33,9 @@ export default function WeeklySummary({ posts }) {
           key={slug}
           className="border border-gray-200 m-2 rounded-xl shadow-lg overflow-hidden flex flex-col"
         >
-          <Link href={`/post/weeklysummary/${slug}`}>
-            <a className="no-underline">
+          <Link href={`/post/weeklysummary/${slug}`} className="no-underline">
               <h1 className="pt-4 pb-0 pl-4">Settimana {frontmatter.week}</h1>
               <h3 className="pt-0 pb-4 pl-4">dal {frontmatter.sab} al {frontmatter.dom}</h3>
-            </a>
           </Link>
         </div>
       ))}

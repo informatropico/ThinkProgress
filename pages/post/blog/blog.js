@@ -33,12 +33,10 @@ export default function Blog({ posts }) {
           key={slug}
           className="border border-gray-200 m-2 rounded-xl shadow-lg overflow-hidden flex flex-col"
         >
-          <Link href={`/post/blog/${slug}`}>
-            <a className="no-underline">
+          <Link href={`/post/blog/${slug}`} className="no-underline">
               <h1 className="pt-4 pb-0 pl-4">{frontmatter.title}</h1>
               <h2 className="pt-0 pb-0 pl-4">{frontmatter.subtitle}</h2>
               <h3 className="pt-0 pb-4 pl-4">{frontmatter.date}</h3>
-            </a>
           </Link>
         </li>
       ))}

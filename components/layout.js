@@ -6,16 +6,16 @@ export default function Layout({ children }) {
       <header className="mb-8 py-4">
         <nav className="container px-4 justify-center flex space-x-10">
           <Link href="/">
-            <a className="">Think Progress</a>
+            Think Progress
           </Link>
           <Link href="/post/blog/blog">
-            <a className="">Blog</a>
+            Blog
           </Link>
           <Link href="/post/weeklysummary/weekly-summary">
-            <a className="">Weekly Summary</a>
+            Weekly Summary
           </Link>
           <Link href="/about">
-            <a className="">About</a>
+            About
           </Link>
         </nav>
       </header>
