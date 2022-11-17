@@ -1,48 +1,28 @@
 ---
-title: "Diario di una crisi (2)"
-subtitle: "Si tratta sempe di iniziare"
-abstract: "Fare nell'inifinito delle possibilità"
-date: "2022-08-26"
+title: "Suggestioni Letterarie #2"
+subtitle: "Il visconte dimezzato - Italo Calvino"
+abstract: "Le mie due metà"
+date: "2022-08-20"
 ---
 
 Caro E.,
 
-quella che vedi qui sotto è la mia "prima" fotografia. Scrivo "prima" perché è la prima foto pensata all'interno di un contesto più ampio, ovvero quello di questo progetto.
+pochi giorni fa, finito di leggere *Il visconte dimezzato* pensavo che la migliore suggestione che mi aveva scaturito potesse essere rappresentata da un puzzle.
+Ero infatti rimasto perplesso sulla velocità con cui la storia si conclude rispetto allo spazio dedicato alle avventure del (dei?) visconte ancora spezzato, come se il visconte intero fosse meno importante della sua versione dimezzata.
+Poi mi è sopraggiunta la parola *Gestalt*, qualcosa ha iniziato a muoversi e anche la velocità della conclusione ha assunto un senso per me. Il visconte intero è il visconte "giusto" ed è molto di più delle due parti riunite, ma solo conoscendo sufficientemente bene le due parti si può comprendere questo sottile concetto.
+Ecco allora che l'immagine del puzzle che aveva fatto capolino dalla lettura era l'esca per un ragionamento un po' più completo sulle persone. Ricordati che le persone sono sì dei puzzle di tanti pezzi, le cui connessioni però non sono irrilevanti. Non si possono togliere o scambiare pezzi anche se sembra che l'incastro funzioni, anche se sembra che l'immagine si capisca ugualmente. Un puzzle è completo quando ha tutti i **suoi** pezzi e quello che restituisce è molto di più dell'incastro di essi. Per fortuna le persone sono di più di un foglio di cartone a pezzettini con una foto incollata sopra, i pezzi delle persone si trasformano, sono di dimensioni e peso diverse, ma il concetto resta lo stesso: ogni individuo restituisce di più della somma dei pezzi di cui è composto. La nostra difficoltà è comprenderlo senza la possibilità di spezzare nessuno per guardare solo il singolo pezzo, bisogna sempre prendere il pacchetto completo.
 
-Approfitto di questa novità per scriverti probabilmente il pezzo più importante su questa crisi, le parole che raccontano la svolta. 
+Ecco, avrei voluto scriverti di questo argomento (in modo un po' più approfondito) ma non ti starei raccontando niente, non aggiungerei niente che non puoi trovare da qualche parte in rete e quindi ho aspettato. Ho aspettato finché l'evidente non si è manifestato ai miei occhi: se fossi io il visconte? Quali sono i due pezzi che posso raccontare a te, che mi vedrai sempre intero?
 
-Tutto si può riassumere nell'abbandonare la passività in favore dell'attività e questa trasformazione ha travolto tutti gli ambiti della mia vita come uno tsunami: ho messo da parte il come per lasciare spazio al cosa. E ho iniziato.
+Ora queste righe hanno un senso.
 
-Sì, perché il fulcro di tutto questo discorso sta nell'iniziare a fare le cose che vuoi fare e saranno poi loro stesse a trascinarti alla ricerca del come farle.  Ho passato anni a lamentarmi di non avere tempo sufficiente per leggere perché non sapevo *come* organizzarmi, ho aspettato un tempo imperdonabile prima di esprimermi perché non sapevo *come* farlo, quali strumenti utilizzare, quale piano seguire.
+Allora ecco, ti presento la mia destra: un guerriero subdolo, tenace, in grado di infilarsi tra le pieghe della mente e che ha come obiettivo preservarmi da ogni rischio a costo anche dell'immobilismo totale. Mi accompagna da che ne ho memoria e mi ha impedito di vivere tantissime esperienze nella mia vita con la scusa di preservarmi dal rischio. Per lungo tempo è stato padrone indiscusso della reggia di cui decideva bello e cattivo tempo. Il suo motto è *"Non fare nulla che non sei sicuro di saper fare"*.
 
-Ma un giorno ho iniziato ed è quasi un anno che non mi fermo: ho iniziato a scrivere a te, poi ho provato a scrivere una poesia e adesso voglio creare un progetto che sia una esperienza completa: immagine, suono e parola. Nel frattempo parteciperò a tre concorsi di poesia e non vedo l'ora di scegliere i testi da inviare.
+Ma quattro anni fa è iniziato l'assedio, una cannonata improvvisa in piena notte ad annunciare l'arrivo della mia sinistra: un combattente giovane, inesperto ma pieno di energia che senza demordere ha continuato ad attaccare fino ad aprire una breccia ed entrare nella reggia. Se scrivo queste righe, se scrivo poesie e se nuoto è tutto merito suo. Dopo anni di lotta è riuscito a prendere il controllo e a relegare la mia destra nei sotterranei, da dove ancora tende degli agguati per provare a ristabilire gli equilibri.
+Questo nuovo padrone governa al motto *"Memento Mori"* e cerca di spingermi a vivere ogni secondo al massimo delle mie possibilità, a godermi il momento e fare, fare cose.
 
-Ecco allora la prima foto: sicuramente tecnicamente sbagliata ma che continuo a guardare perché racconta quello che io ho visto in quegli attimi. Ho visto le proporzioni della natura, degli esseri viventi in questa Terra che ci sovrasta e ci sostiene.
-
-![Foto cavalli con montagne](/images/primaFoto.jpg)
-
-Questa immagine rappresenta un nuovo inizio, una possibilità ancora ignota nella sua tecnica ma a cui ho destinato uno scopo: so **cosa** voglia che sia. Iniziare fa sempre paura, è prendersi un impegno con se stessi sull'ignoto, è scegliere di destinare il proprio tempo per realizzare quella cosa. Ma è il regalo più grande che puoi farti, dedicarti del tempo per realizzare quello che vuoi fare, godendoti ogni passo che ti separa dalla meta.
-
-Dentro di te albergano un infinito di possibilità che stanno solo aspettando che tu inizi. Sono lì per te, la strada verso la felicità è fatta di azioni che concedi a te stesso che saranno il valore da riversare sugli altri e arricchire le loro vite.
-
-L'universo sta aspettando che diventi ciò che già sei, ma che ancora non hai scoperto. Allora fai, provaci finché la tua opera non risuonerà dentro di te e tornerai  a guardarla come faccio io con la mia "prima" foto. Imprimi le tue opere dei tuoi significati e godi delle tue azioni, tieni sempre presente il **cosa** mentre cerchi il **come**.
-
-Non temere di abbandonare, di cambiare idea, di buttare via e ricominciare da capo: lo stai facendo per te, sei autore e fruitore delle tue opere. Segui il **cosa** e lasciati trascinare alla ricerca del **come** un passo alla volta. Non c'è giudizio che tenga, critica che ti possa scalfire perché il tuo percorso è unico e non riproducibile.
-
-Io ancora tremo di fronte alla libertà di poter realizzare i miei progetti, ancora non riesco a dire a chiunque  quello che faccio perché sono cresciuto con la paura del giudizio altrui, perché credevo che  esistessero delle cose giuste da fare, misurabili in senso oggettivo. Credevo che il piacere dovesse essere messo dopo il dovere, quel dovere che non finisce mai.
-
-Credevo di venire dopo gli altri.
-
-Ma ho iniziato a capire che non è così e non dovrà essere così nemmeno per te: non dovrai dimostrare mai niente a nessuno se non a te stesso (ma su questo ci ritorneremo) per realizzare la tua vera natura superando tutti gli ostacoli e cogliendo tutte le opportunità che ti si pareranno davanti.
-
-Hai tutti gli ingredienti per realizzare la più grande meraviglia del mondo: la tua vita!
-
-Inizia subito, fai il primo passo e poi il secondo finché l'inerzia non trasformerà passi incerti in cammino e il cammino in corsa fino a staccare i piedi da terra e volare.
+La vita la castello non è facile, nel tempo la parte destra aveva stretto alleanze potenti con *Impostore* (famoso per la sua sindrome), con *Ansia* (famosa per proiettarti nel futuro più distopico che è in grado di immaginare) e con *Dovere* (famoso per la sua capacità di fornire sempre una cosa da fare più importate di tutte le altre). La mia sinistra ha trovato nelle segrete *Coraggio*, *Autostima* e *Divertimento* e li sta rimettendo in forma per sostenere lo scontro.
+Non posso dire che le giornate non siano animate e all'insegna degli scontri, ma quella che ne esce è un'immagine di me che mi piace e, anche se è un po' fuori tema, questo è il messaggio finale che voglio lasciarti da questa suggestione: cerca di essere sempre un'immagine bella di te stesso, dipingiti dentro ogni giorno con i migliori colori. Anche quando le cose vanno storte sii sempre un bel quadro (o una bella musica se preferirai…).
 
 A presto,
-
 M.
-
-## P.S.
-
-Ti avevo già scritto qualcosa sul poter sempre fare qualcosa, ma quello che mancava a quel testo erano due ingredienti che ancora non avevo compreso: il voler fare qualcosa e il volerlo fare per se stessi, per realizzare la propria vita e la propria felicità e non cadere nella trappola delle "cose giuste per gli altri" che ci fanno sentire a posto nel mondo. Costruisciti il più bel trono, fallo con le tue mani e della forma giusta per te.

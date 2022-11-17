@@ -1,38 +1,27 @@
 ---
-title: "Il mio sogno fuori dal cassetto"
-subtitle: "Liberare i sogni non è da illusi"
-abstract: "Vivere inseguendo un sogno per essere grandi"
-date: "2022-08-24"
+title: "Suggestioni Letterarie #1"
+subtitle: "La metamorfosi - Franz Kafka"
+abstract: "Qual è il vero mostro?"
+date: "2022-07-28"
 ---
 
 Caro E.,
 
-sono seduto sul divano vicino alla mamma mentre ti scrivo queste righe. Tu ti sei appena addormentato in braccio e hai iniziato il tuo viaggio nel mondo dei sogni. E proprio di sogni voglio parlarti: ricordiamo bene, io e la mamma, le prime volte che ci hai raccontato i tuoi sogni. Avevi pochi mesi e durante il tuo sonno lasciavi venire in superficie il racconto di ciò che alberga le profondità del tuo essere: ti muovevi in modo inconsueto, il tuo viso assumeva espressioni a volte divertite e a volte tutte corrucciate. Capitava a volte che un pezzettino del sogno scappasse direttamente attraverso la tua voce. Poi tutto ritornava ad una calma apparente e il sogno continuava ad albergare la profondità del tuo sonno.
+Quanto siamo diversi dentro e quanti strati rassicuranti indossiamo per far sentire a proprio agio gli altri. Siamo tutti pieni di strati e pochi hanno il coraggio di spogliarsi. Appena qualcuno ci prova deve pagare il prezzo dell’esilio e della diversità (che poi dovrebbe chiamarsi originalità) e sono pochi quelli che sopravvivono senza lasciarsi morire, che spesso significa rimettersi addosso quegli strati e magari chiedere anche scusa.
 
-Tutti sognano, questa è una delle grandi meraviglie della nostra umanità: una forza interiore, che alberga il profondo e che aspetta il momento giusto per manifestarsi. C'è chi sogna solo quando dorme, chi sogna ad occhi aperti e chi fa sogni lucidi: l'unica cosa che conta è che un sogno arriva da dentro, non dalla volontà, emerge spontaneamente e non bisogna fare altro che accoglierlo.
+Ma se non ci lasciassimo morire? Se la nostra storia finisse in modo diverso e non permettessimo a nessuno di chiuderci dentro una stanza?
 
-Poi, dopo aver appreso tutta questa meraviglia, ci hanno insegnato a chiudere i sogni in un cassetto per non rischiare di vivere troppo intensamente la vita e preservare una  mitezza e una quiete che accontentano tutti e non rendono felici nessuno. Sono diventati sempre di più un segreto, i sogni, da tenere nascosti. Spesso non si avverano così come sono e quindi è meglio non farli sapere a nessuno, perché tutto deve avere un riscontro oggettivo e concreto: se hai sognato di andare sulla Luna e non ci sei andato sei un fallito.
+Ho letto queste pagine in un momento cruciale della mia trasformazione personale, in un momento in cui sento di aver distrutto il mio guscio e il mio Io è un insieme di pezzi che attendono di riprendere una forma. Solo che adesso ho la consapevolezza di poter scegliere: posso scegliere la forma, posso decidere che “mostro” diventare.
 
-Ma io, ovviamente, non sono d'accordo con questa visione: il sogno per me è energia, è un ingrediente da tenere in considerazione durante le nostre scelte, è un indicatore della via della nostra profondità, del nostro io più enigmatico e di difficile descrizione.
+Sono stato colpito dalla sofferenza di Gregor nell'apprendere di non essere più accettato nella sua nuova forma e del suo senso di colpa verso le responsabilità che aveva assunto e che non poteva più sostenere, mi sono stretto a lui nel momento dell’abbandono, quando quella forma non era più compatibile con gli “spazi” che la circondavano e non sembrava esserci per lui più via d’uscita.
 
-Ma soprattutto, i sogni si possono raccontare perché non sono di per sé un obiettivo ma sono prima di tutto immagine del sognatore, racconto di una identità, di un livello più alto di quello richiesto dalla nostra società consumista e orientata a produrre.
+Io invece voglio costruirmi il mio spazio, adatto alla forma che voglio costruire, pieno delle cose che mi nutrono e mi tengono in vita, delle persone che non sono spaventate quando mi guardano, per le quali non parlo una lingua incomprensibile ma solo una lingua da conoscere. 
 
-Conoscere i sogni di qualcuno è un bellissimo modo per conoscere chi c'è dentro quel corpo e dietro quella mente. E allora oggi ti racconto i miei, o almeno alcuni.
+Gregor aveva iniziato a conoscersi, a cercare un sistema di comunicazione ma non ha trovato accettazione: il riflesso del comportamento degli altri lo ha annientato, non è riuscito a vivere per sé stesso anche quando, io credo, era diventato il vero lui. Sono gli altri ad attribuirgli l’appellativo di mostro, lui semplicemente è nella sua nuova forma e le difficoltà sono sempre legate all'interazione con il mondo abitato prima dai suoi strati, conforme ad un sistema di strati indossati da tutti per sentirsi al sicuro.
 
-Io sogno di nuotare con le balene. Forse questo è il mio sogno più antico e più radicato in me; ogni volta che ci penso mi viene la pelle d'oca ad immaginarmi immerso nel blu, minuscolo accanto ai giganti del mare eppure libero in uno spazio senza confini.
+In queste pagine io leggo un appello a trasformarsi, a prendere coscienza della nostra vera forma e costruire un mondo in grado di accoglierle. Un mondo in cui l’originalità e la diversità sono un momento di condivisione e non di esilio: parole dette e ridette e sempre seguita da “MA”, da una regola in più, da un’eccezione a cui crediamo di non poterci sottrarre, da una base che deve essere valida per tutti ma continuiamo a tenere troppo in alto rendendo le nostre società una casa con tante stanze e tante porte da chiudere a chiave.
 
-Io sogno di partire insieme a te e la mamma con una macchina grande e vuota, girovagare per un anno intero e al ritorno vedere di quante emozioni abbiamo riempito la grande macchina. Potremmo diventare una sorta di ghostbuster delle emozioni e comprendere quanto importante sia essere protagonisti della nostra vita.
-
-Io sogno di percorrere il Cammino di Santiago con la mia migliore amica. Questa volta alla partenza ci saranno gli zaini pieni delle cose che in tutti i nostri anni non siamo stati capaci di lasciare andare e le portiamo in viaggio per ringraziarle e salutarle lungo il percorso e scoprire gli zaini vuoti all'arrivo e l'anima più leggera.
-
-Io sogno di comprare un pezzo di bosco, abbastanza grande da dare l'illusione di potersi perdere dentro. Un bosco per chi, come me, ha bisogno di ricordarsi quanto è bella la nostra Terra e per tutti quelli che hanno bisogno di un posto in cui sognare liberamente protetti dalle chiome e sostenuti dai tronchi.
-
-Infine sogno che tu non sia mai vinto dal desiderio di giudicare e classificare ciò che incontrerai nella vita: tutto ciò che esiste è possibile proprio perché esiste. Sogno che tu ti faccia rapire sempre dalla meraviglia e mai dalla negazione o dal rifiuto.
-
-Spero che queste poche righe ti possano aiutare a sognare sempre in grande, a qualunque età e dovunque ti abbia portato la vita. Ricorda che il sogno non è un obiettivo ma è una energia: forse non partiremo mai per un anno intero, ma possiamo partire ogni sabato pomeriggio con lo stesso entusiasmo. Forse non percorrerò mai il cammino di Santiago, ma posso lasciare andare le cose passeggiando lungo la spiaggia.  Forse non vedrò mai una balena, ma continuo a nuotare aspettando il loro canto. 
-
-Il sogno è sempre un racconto di te e non permettere a te stesso di essere piccolo.
+Possiamo pensare che Gregor sia morto o che abbia indossato di nuovo le sue maschere, poco importa e poco cambia: ogni volta che rinunciamo alla metamorfosi un pezzo di noi cede alla comodità, alla sicurezza affidata a qualcosa di esterno da noi e non ci accorgiamo che ci trasformiamo di continuo per restare attaccati a quella sicurezza, strato su strato e non sia mai che, alla fine del viaggio, guardandoci allo specchio non vediamo un mostro vero.
 
 A presto,
-
 M.

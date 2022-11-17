@@ -11,9 +11,6 @@ export default function Layout({ children }) {
           <Link href="/post/blog/blog">
             Blog
           </Link>
-          <Link href="/post/weeklysummary/weekly-summary">
-            Weekly Summary
-          </Link>
           <Link href="/about">
             About
           </Link>
