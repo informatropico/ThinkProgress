@@ -61,5 +61,7 @@ Non vedo l’ora di risedermi qui (o chissà dove) fra un anno e riguardare ques
 
 ![](/images/disegno2023.jpg)
 
+A riguardarlo il disegno sembra quasi la storpiatura dello scudo di Capitan America: non era voluto e non c'entra niente. Lascio a te ogni interpretazione.
+
 A presto,
 M.
