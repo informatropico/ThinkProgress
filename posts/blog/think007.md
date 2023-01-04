@@ -2,6 +2,8 @@
 title: "Perchè non uso il mio nome"
 subtitle: "Il senso del nickname"
 date: "2022-01-03"
+prev: "think006"
+next: "think008"
 ---
 
 Caro E.,

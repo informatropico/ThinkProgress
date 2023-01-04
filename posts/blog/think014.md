@@ -3,6 +3,8 @@ title: "Suggestioni Letterarie #2"
 subtitle: "Il visconte dimezzato - Italo Calvino"
 abstract: "Le mie due metà"
 date: "2022-08-20"
+prev: "think013"
+next: "think015"
 ---
 
 Caro E.,

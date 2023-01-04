@@ -3,6 +3,8 @@ title: "La sapienza degli alberi"
 subtitle: "Simboli della natura"
 abstract: "Una giornata immerso nella natura, una settimana di rigenerazione"
 date: "2022-10-09"
+prev: "think016"
+next: "think018"
 ---
 
 Caro E.,

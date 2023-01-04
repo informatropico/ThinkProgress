@@ -3,6 +3,8 @@ title: "Suggestioni Letterarie #1"
 subtitle: "La metamorfosi - Franz Kafka"
 abstract: "Qual è il vero mostro?"
 date: "2022-07-28"
+prev: "think012"
+next: "think014"
 ---
 
 Caro E.,

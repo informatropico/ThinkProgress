@@ -3,6 +3,8 @@ title: "Diario di una crisi (3)"
 subtitle: "memento mori: la mia ricerca della felicità"
 abstract: "Il racconto di questi 4 anni e mezzo"
 date: "2022-10-14"
+prev: "think017"
+next: "think019"
 ---
 
 Caro E.,

@@ -3,6 +3,8 @@ title: "Suggestioni Letterarie #3"
 subtitle: "Il barone rampante - Italo Calvino"
 abstract: "Rompere gli schemi"
 date: "2022-11-12"
+prev: "think018"
+next: "think020"
 ---
 
 Caro E.,

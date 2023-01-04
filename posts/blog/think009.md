@@ -3,6 +3,8 @@ title: "Dignità"
 subtitle: "Arma di pace di massa"
 abstract: "La tua prima giornata della memoria"
 date: "2022-01-27"
+prev: "think008"
+next: "think010"
 ---
 
 Caro E.,

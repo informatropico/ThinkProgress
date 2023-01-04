@@ -3,6 +3,8 @@ title: "Diario di una crisi (2)"
 subtitle: "Si tratta sempe di iniziare"
 abstract: "Fare nell'inifinito delle possibilità"
 date: "2022-08-26"
+prev: "think015"
+next: "think017"
 ---
 
 Caro E.,

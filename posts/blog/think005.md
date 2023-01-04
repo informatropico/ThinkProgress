@@ -3,6 +3,8 @@ title: "Scovare una via"
 subtitle: "Seguire una rotta anche senza una meta"
 abstract: "4 idee per destraggiarsi nella meraviglia del disordine"
 date: "2022-01-01"
+prev: "think004"
+next: "think006"
 ---
 
 Caro E.,

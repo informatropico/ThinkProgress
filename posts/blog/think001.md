@@ -3,6 +3,8 @@ title: "Ciao E."
 subtitle: "Quando si diventa padre"
 abstract: "Dove si raccontano i primi impacci e le prime speranze di un neo papà."
 date: "2021-10-15"
+prev: "null"
+next: "think002"
 ---
 
 Caro E.,

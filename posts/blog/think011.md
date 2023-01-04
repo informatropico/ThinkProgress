@@ -3,6 +3,8 @@ title: "31/91"
 subtitle: "I AM 31 years old"
 abstract: "Il compleanno che non mi aspettavo"
 date: "2022-04-18"
+prev: "think010"
+next: "think012"
 ---
 
 Caro E.,

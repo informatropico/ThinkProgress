@@ -3,6 +3,8 @@ title: "Sull'essere grati"
 subtitle: "Ridurre le pretese"
 abstract: "Un piccolo tentativo di trasformare la gratitudine in responsabilità."
 date: "2022-02-14"
+prev: "think009"
+next: "think011"
 ---
 
 Caro E.,

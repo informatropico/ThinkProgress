@@ -3,6 +3,8 @@ title: "Diario di una crisi (1)"
 subtitle: "Se la domanda è giusta"
 abstract: "Liberi di essere felici"
 date: "2022-06-29"
+prev: "think011"
+next: "think013"
 ---
 
 Caro E.,

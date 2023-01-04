@@ -4,7 +4,7 @@ export default function Layout({ children }) {
   return (
     <div className="flex flex-col min-h-screen">
       <header className="mb-8 py-4">
-        <nav className="container px-4 justify-center flex space-x-10">
+        <nav className="container justify-center flex flex-row space-x-10 mx-auto">
           <Link href="/">
             Think Progress
           </Link>
@@ -17,7 +17,7 @@ export default function Layout({ children }) {
         </nav>
       </header>
       
-      <main className="container mx-auto flex-1">{children}</main>
+      <main className="container mx-auto flex flex-auto justify-center">{children}</main>
       
       <footer className="mt-8 py-4">
         <div className="container mx-auto flex justify-center">

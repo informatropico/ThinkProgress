@@ -3,6 +3,8 @@ title: "Tirare una linea"
 subtitle: "Siamo istanti di presente"
 abstract: "Pensieri di fine anno"
 date: "2022-12-31"
+prev: "think023"
+next: "think025"
 ---
 
 Caro E.,

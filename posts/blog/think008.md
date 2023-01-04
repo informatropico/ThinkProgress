@@ -3,6 +3,8 @@ title: "Si può sempre fare qualcosa"
 subtitle: "La scusa del tutto fa schifo"
 abstract: "Un punto di vista su se stessi, lasciando da parte il confronto con gli altri"
 date: "2022-01-04"
+prev: "think007"
+next: "think009"
 ---
 
 Caro E.,

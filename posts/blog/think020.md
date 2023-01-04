@@ -3,6 +3,8 @@ title: "Siamo quello che facciamo?"
 subtitle: "Domande sull'essere e sul fare"
 abstract: "Senza troppe risposte"
 date: "2022-11-16"
+prev: "think019"
+next: "think021"
 ---
 
 Caro E.,

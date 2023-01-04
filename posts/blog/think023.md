@@ -3,6 +3,8 @@ title: "Perchè la poesia?"
 subtitle: "Riflessioni sull'espressione"
 abstract: "Abbandonare qualche responsabilità"
 date: "2022-12-02"
+prev: "think022"
+next: "think024"
 ---
 
 Caro E.,

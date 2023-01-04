@@ -3,6 +3,8 @@ title: "Il fine ultimo"
 subtitle: "Le opportunità per resistere all'imitazione"
 abstract: "Dove si parla di Enea e di cosa mi ha ispirato"
 date: "2021-11-28"
+prev: "think002"
+next: "think004"
 ---
 
 Caro E.,

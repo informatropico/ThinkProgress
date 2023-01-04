@@ -3,6 +3,8 @@ title: "Il mio sogno fuori dal cassetto"
 subtitle: "Liberare i sogni non è da illusi"
 abstract: "Vivere inseguendo un sogno per essere grandi"
 date: "2022-08-24"
+prev: "think014"
+next: "think016"
 ---
 
 Caro E.,

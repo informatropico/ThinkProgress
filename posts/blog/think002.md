@@ -3,6 +3,8 @@ title: "Espanditi"
 subtitle: "Esplorare e meravigliarsi"
 abstract: "Dove si parla di funghi e stalagmiti"
 date: "2021-11-21"
+prev: "think001"
+next: "think003"
 ---
 
 Caro E.,

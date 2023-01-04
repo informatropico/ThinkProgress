@@ -3,6 +3,8 @@ title: "Disegnare il 2022"
 subtitle: "Fissare i prossimi obiettivi"
 abstract: "Cosa mi propongo di fare quest'anno"
 date: "2022-01-02"
+prev: "think005"
+next: "think007"
 ---
 
 Caro E.,

@@ -25,18 +25,26 @@ export async function getStaticProps() {
   };
 }
 
+function LinkPost(props) {
+  return (
+    <div className="flex flex-col items-center text-center">
+      <h3 className="text-xs border-b text-gray-500">{props.data}</h3>
+      <h1 className="text-xl">{props.titolo}</h1>
+      <h2 className="text-sm text-gray-700">{props.sottotitolo}</h2>
+    </div>
+  )
+}
+
 export default function Blog({ posts }) {
   return (
-    <ul className="list-none prose mx-auto">
+    <ul className="items-center mx-auto">
       {posts.map(({ slug, frontmatter }) => (
         <li
           key={slug}
-          className="border border-gray-200 m-2 rounded-xl shadow-lg overflow-hidden flex flex-col"
+          className="m-4 flex flex-col items-center font-mono hover:bg-gray-200 p-3 rounded-lg"
         >
           <Link href={`/post/blog/${slug}`} className="no-underline">
-              <h1 className="pt-4 pb-0 pl-4">{frontmatter.title}</h1>
-              <h2 className="pt-0 pb-0 pl-4">{frontmatter.subtitle}</h2>
-              <h3 className="pt-0 pb-4 pl-4">{frontmatter.date}</h3>
+            <LinkPost data={frontmatter.date} titolo={frontmatter.title} sottotitolo={frontmatter.subtitle} />
           </Link>
         </li>
       ))}

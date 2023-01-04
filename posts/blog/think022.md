@@ -3,6 +3,8 @@ title: "Parlando del Nulla"
 subtitle: "La mia suggestione"
 abstract: "Trovare qualcosa che ti appassiona"
 date: "2022-12-01"
+prev: "think021"
+next: "think023"
 ---
 
 Caro E.,

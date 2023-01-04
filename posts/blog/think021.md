@@ -3,6 +3,8 @@ title: "La mia ombra"
 subtitle: "Avventura di una influenza"
 abstract: "Fare pace con se stessi"
 date: "2022-11-17"
+prev: "think020"
+next: "think022"
 ---
 
 Caro E.,

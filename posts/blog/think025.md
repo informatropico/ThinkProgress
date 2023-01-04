@@ -3,6 +3,8 @@ title: "Disegnare il 2023"
 subtitle: "Testimonianza e presenza"
 abstract: "La mappa del prossimo viaggio"
 date: "2023-01-03"
+prev: "think024"
+next: "null"
 ---
 
 Caro E.,

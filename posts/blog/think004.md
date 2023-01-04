@@ -3,6 +3,8 @@ title: "Perchè scrivo"
 subtitle: "Ogni verità è approssimazione di una realtà ignota"
 abstract: "Dove giustifico la mia scelta di scrivere nonostante non ne sappia niente"
 date: "2021-11-29"
+prev: "think003"
+next: "think005"
 ---
 
 Caro E.,
