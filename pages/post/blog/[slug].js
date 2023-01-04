@@ -84,7 +84,7 @@ function Navigation(props) {
 
 function IntestazionePost(props) {
   return (
-    <div className="flex flex-col items-center">
+    <div className="flex flex-col items-center text-center">
       <h3 className="text-xs border-b text-gray-500">{props.data}</h3>
       <h1 className="text-xl mb-1">{props.titolo}</h1>
       <h2 className="text-sm text-gray-500 mt-0">{props.sottotitolo}</h2>
