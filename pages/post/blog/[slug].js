@@ -86,8 +86,8 @@ function IntestazionePost(props) {
   return (
     <div className="flex flex-col items-center">
       <h3 className="text-xs border-b text-gray-500">{props.data}</h3>
-      <h1 className="text-xl">{props.titolo}</h1>
-      <h2 className="text-sm text-gray-700">{props.sottotitolo}</h2>
+      <h1 className="text-xl mb-1">{props.titolo}</h1>
+      <h2 className="text-sm text-gray-500 mt-0">{props.sottotitolo}</h2>
     </div>
   )
 }
@@ -96,7 +96,7 @@ export default function BlogPage({ frontmatter, contentHtml }) {
   return (
     <div className="prose flex flex-col items-center">
       <Navigation prev={frontmatter.prev} next={frontmatter.next} data={frontmatter.date} titolo={frontmatter.title} sottotitolo={frontmatter.subtitle} />
-      <div dangerouslySetInnerHTML={{ __html: contentHtml }} className="text-justify"/>
+      <div dangerouslySetInnerHTML={{ __html: contentHtml }} className="text-justify px-4"/>
     </div>
   );
 }
