@@ -7,7 +7,7 @@ urls:
 
 # Think progress
 
-In questa pagina sono raccolti tutti gli aggiornamenti e le evoluzioni tecniche del progetto (in inglese ci sono dei copia e incolla da articoli che trovate linkati in alto)
+In questa pagina sono raccolti tutti gli aggiornamenti e le evoluzioni tecniche del progetto (in 
 
 ## Versione 1: l'inizio
 
