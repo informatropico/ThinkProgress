@@ -4,7 +4,7 @@ subtitle: "Testimonianza e presenza"
 abstract: "La mappa del prossimo viaggio"
 date: "2023-01-03"
 prev: "think024"
-next: "null"
+next: "think025"
 ---
 
 Caro E.,
