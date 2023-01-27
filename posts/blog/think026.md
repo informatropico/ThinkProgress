@@ -4,7 +4,7 @@ subtitle: "La coscienza di Zeno - Italo Svevo"
 abstract: "La mia terapia"
 date: "2023-01-25"
 prev: "think025"
-next: "null"
+next: "think027"
 ---
 
 Caro E.,
