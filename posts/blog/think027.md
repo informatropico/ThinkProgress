@@ -4,7 +4,7 @@ subtitle: "Giornata della memoria 2023"
 abstract: "La disumanizzazione della sofferenza"
 date: "2023-01-27"
 prev: "think026"
-next: "null"
+next: "think028"
 ---
 
 Caro E.,
