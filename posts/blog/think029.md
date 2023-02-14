@@ -4,7 +4,7 @@ subtitle: "Intenzioni, impegno, aspirazione"
 abstract: "Cosa ci portiamo addosso ogni giorno?"
 date: "2023-02-14"
 prev: "think028"
-next: "null"
+next: "think030"
 ---
 
 Caro E.,
