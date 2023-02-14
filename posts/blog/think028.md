@@ -4,7 +4,7 @@ subtitle: "Uno, nessuno e centomila - Luigi Pirandello"
 abstract: "Nessuna forma"
 date: "2023-02-13"
 prev: "think027"
-next: "null"
+next: "think029"
 ---
 
 Caro E.,
