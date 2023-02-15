@@ -1,6 +1,6 @@
 ---
 title: "Imparare ad aspettare"
-subtitle: "e ad asepttarsi"
+subtitle: "e ad aspettarsi"
 abstract: "Prenderdi del tempo"
 date: "2023-02-15"
 prev: "think029"
