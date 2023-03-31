@@ -4,7 +4,7 @@ subtitle: "Mattatoio n.5 - Kurt Vonnegut"
 abstract: "Infiniti presenti"
 date: "2023-03-31"
 prev: "think030"
-next: "null"
+next: "think032"
 ---
 
 Caro E.,
