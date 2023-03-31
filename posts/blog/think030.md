@@ -4,7 +4,7 @@ subtitle: "e ad aspettarsi"
 abstract: "Prenderdi del tempo"
 date: "2023-02-15"
 prev: "think029"
-next: "null"
+next: "think030"
 ---
 
 Caro E.,
