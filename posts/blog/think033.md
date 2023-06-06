@@ -1,5 +1,5 @@
 ---
-title: "Quanto durera?"
+title: "Quanto durerà?"
 subtitle: "Alla ricerca della memorabilità"
 abstract: "Ispezionare e adattare"
 date: "2023-06-06"
