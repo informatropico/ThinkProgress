@@ -4,7 +4,7 @@ subtitle: "Scoprire di essere multipotenziali"
 abstract: "...o credere di essere tali"
 date: "2023-04-01"
 prev: "think031"
-next: "null"
+next: "think033"
 ---
 
 Caro E.,
