@@ -9,9 +9,9 @@ next: "null"
 
 Caro E.,
 
-sono più due mesi che non ti scrivo una lettera e oggi allora ti scrivo proprio di questo silenzio.
+sono più di due mesi che non ti scrivo una lettera e oggi allora ti scrivo proprio di questo silenzio.
 
-Proverò a scriverti come sto imparando a non dare colpa a quel silenzio e a come mantenere viva un’aspirazione senza farsi schiacciare da essa. Proverò a condividere con te l’idea che gli obiettivi non sono interruttori tutto o niente.
+Proverò a scriverti come sto imparando a non dare colpa a quel silenzio e a come mantenere viva un’aspirazione senza farmi schiacciare da essa. Proverò a condividere con te l’idea che gli obiettivi non sono interruttori tutto o niente.
 
 Qualche tempo fa, non sono bene quanto, ma del tempo magari parleremo un’altra volta, ti avrei scritto che questi ultimi due mesi sono stati due mesi negativi durante i quali ho scritto pochissime poesie e nessuna lettera appunto. Un periodo in cui ho letto poco rispetto a quello che mi aspettavo e così via. Ti avrei elencato tutte le cose che non sono andate come me le ero immaginate. Poi ti avrei scritto qualcosa sulla perseveranza, sul ricominciare costantemente e sul non abbattersi.
 

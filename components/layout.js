@@ -21,7 +21,7 @@ export default function Layout({ children }) {
       
       <footer className="mt-8 py-4">
         <div className="container mx-auto flex justify-center">
-          &copy; 2022 Informatropico
+          &copy; 2022-2023 Informatropico
         </div>
       </footer>
     </div>
