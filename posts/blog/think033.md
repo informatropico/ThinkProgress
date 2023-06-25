@@ -4,7 +4,7 @@ subtitle: "Alla ricerca della memorabilità"
 abstract: "Ispezionare e adattare"
 date: "2023-06-06"
 prev: "think032"
-next: "null"
+next: "think034"
 ---
 
 Caro E.,
