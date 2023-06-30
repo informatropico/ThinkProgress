@@ -4,7 +4,7 @@ subtitle: "La gioia di scrivere - Wislawa Szymborska"
 abstract: "La mia gioia di scrivere"
 date: "2023-06-25"
 prev: "think033"
-next: "null"
+next: "think035"
 ---
 
 Caro E.,
