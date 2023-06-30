@@ -4,7 +4,7 @@ subtitle: "Le cose e la loro fine"
 abstract: "Vivere in compagnia della fine"
 date: "2023-06-30"
 prev: "think034"
-next: "null"
+next: "think036"
 ---
 
 Caro E.,
