@@ -4,7 +4,7 @@ subtitle: "La meditazione come strumento"
 abstract: "Scalare l'Everest del giudizio altrui"
 date: "2023-06-30"
 prev: "think035"
-next: "null"
+next: "think037"
 ---
 
 Caro E.,
