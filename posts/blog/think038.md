@@ -28,7 +28,7 @@ Che l’universo sia pervaso da energia è una cosa assodata nel mio tempo (mi a
 
 Il problema ora era diventato cosa farne di questi due assiomi, come concretizzarli nella quotidianità e in qualche modo renderli operativi. Allora ho iniziato a costruire una mappa delle azioni perché di questo è composta la vita: azioni consapevoli, azioni inconsapevoli, volute o necessarie. Così è nata questa mappa che mi aiuta a mantenere la rotta.
 
-![Mappa delle azioni](/images/Mappa-azioni.jpg "La mappa delle azioni")
+![Mappa delle azioni](/images/Mappa-azioni.png "La mappa delle azioni")
 
 Tutti vorremmo vivere in un mondo in cui ogni azione ci fa stare bene e fa stare bene anche le persone intorno a noi, ma tutto e sempre sono parole che non fanno parte del mondo (come niente e mai). Eppure vale la pena di cercarle e di realizzarle perché generano un circolo di positività più forte di uragano. Scrivere queste lettere è una di quelle azioni perché permette a me di esprimermi e a chi le legge di conoscermi meglio, in modo più diretto (spero che anche per te sia così).
 
