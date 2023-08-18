@@ -4,7 +4,7 @@ subtitle: "e l'arte di raccontarsi storie"
 abstract: "Un sogno rimandato"
 date: "2023-07-29"
 prev: "think036"
-next: "null"
+next: "think038"
 ---
 
 Caro E.,
