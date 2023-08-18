@@ -60,5 +60,5 @@ E che abita il dentro di ognuno nel mondo.
 
 Buona navigazione figlio mio.
 
-A presto,
+A presto,  
 M.
