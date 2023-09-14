@@ -4,7 +4,7 @@ subtitle: "Mappe di navigazione"
 abstract: "per azioni quotidiane"
 date: "2023-08-18"
 prev: "think037"
-next: "null"
+next: "think039"
 ---
 
 Caro E.,
