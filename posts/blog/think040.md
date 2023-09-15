@@ -25,7 +25,7 @@ Ti parlo di amore non a caso: credo che se questo concetto viene accettato e int
 
 Credo non sarà difficile estendere questo ragionamento ad altri temi della vita. E questo modello è ancora radicato e giudicante specialmente in centri abitati piccoli dove la multiculturalità nelle sue più varie forme tarda ad arrivare.
 
-L’amore è particolare perchè, in questo modello, rappresenta un isolamento emotivo della coppia che non è sostenuta da una comunità, ma al più giudicata e confrontata. Il cambiamento dell’amore all’interno della relazione deve rispettare una serie di limiti invalicabili per ottenere l’approvazione e la vita della coppia deve rientrare un binario di eventi pressoché stabilito.
+L’amore è particolare perchè, in questo modello, rappresenta un isolamento emotivo della coppia che non è sostenuta da una comunità, ma al più giudicata e confrontata. Il cambiamento dell’amore all’interno della relazione deve rispettare una serie di limiti invalicabili per ottenere l’approvazione e la vita della coppia deve rientrare in un binario di eventi pressoché stabilito.
 
 Ecco che allora io riapro quel video e scopro la libertà di un amore che non si esaurisce nel tempo, che non si uniforma e che esprime sempre se stesso, a prescindere da che cosa sia quell’espressione. Resta autentico. 
 
