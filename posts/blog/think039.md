@@ -4,7 +4,7 @@ subtitle: "Rivoltato come un calzino"
 abstract: "Libertà e ribilitazione emotiva"
 date: "2023-09-14"
 prev: "think038"
-next: "null"
+next: "think040"
 ---
 
 Caro E.,
