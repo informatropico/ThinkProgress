@@ -4,7 +4,7 @@ subtitle: "Cambiare per rimanere se stessi"
 abstract: ""
 date: "2023-09-15"
 prev: "think039"
-next: "null"
+next: "think041"
 ---
 
 Caro E.,
