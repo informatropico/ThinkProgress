@@ -4,7 +4,7 @@ subtitle: "Accettare la propria unicità"
 abstract: "Il dilemma di essere se stessi"
 date: "2023-10-10"
 prev: "think040"
-next: "null"
+next: "think042"
 ---
 
 Caro E.,
