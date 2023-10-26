@@ -8,6 +8,7 @@ next: "null"
 ---
 
 Caro E.,
+
 sto riguardando indietro a qualche giorno fa, una domenica mattina rallegrata da un sole fuori stagione dopo una nottata di pioggia. Una giornata con il sole che solletica la pelle, senza umidità nell'aria, solo quella rimasta sugli alberi e nel sottobosco.
 
 Ripenso a quella passeggiata nel bosco a raccogliere castagne, la tua prima volta alla scoperta di quel frutto avvolto nelle spine. Mi sembra di averti davanti agli occhi mentre sali per il sentiero scivoloso con delle scarpe non troppo adatte perché per il tuo piedino, ancora, non ne abbiamo trovato un paio che ti vada bene; ma nonostante questo non ti sei mai fatto prendere in braccio, non ha mai cercato scorciatoie in quell'ambiente tutto da scoprire. Così, con qualche passo incerto e qualche piccolo sostegno da parte degli adulti, tu e una dolce biondissima compagna di avventura avete iniziato ad esplorare quel luogo che, almeno un po', aveva iniziato a tingersi dei colori dell'autunno.  
