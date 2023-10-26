@@ -4,7 +4,7 @@ subtitle: "Mostrarsi"
 abstract: "Lo sfrozo di essere se stessi"
 date: "2023-10-20"
 prev: "think041"
-next: "null"
+next: "think043"
 ---
 
 Caro E.,
