@@ -1,5 +1,5 @@
 ---
-title: "Suggesitoni Letterarie #8"
+title: "Suggestioni Letterarie #8"
 subtitle: "Quando non morivo - Mariangela Gualtieri"
 abstract: "Come si fa?"
 date: "2023-11-01"
