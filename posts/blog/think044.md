@@ -10,7 +10,7 @@ next: "null"
 Caro E.,  
 
 strana cosa l'Universo: quella totalità di energia che ti conduce per sentieri di cui a volte vedi la traccia solo se ti volti indietro.
-Proprio ieri mi ha portato questo libro, "Quando non morivo" di Mariangela Gualtieri, scelto quasi casualmente nella nostra libreria. Anzi, ad essere sincero, scelto perché avevo bisogno di qualcosa di breve, di qualcosa che mi desse l'impressione di poter essere finito in poco tempo. Il perché di questo bisogno forse mi sarà chiaro più avanti.
+Proprio ieri mi ha portato questo libro, *"Quando non morivo"* di *Mariangela Gualtieri*, scelto quasi casualmente nella nostra libreria. Anzi, ad essere sincero, scelto perché avevo bisogno di qualcosa di breve, di qualcosa che mi desse l'impressione di poter essere finito in poco tempo. Il perché di questo bisogno forse mi sarà chiaro più avanti.
 Non ho mai scritto le mie suggestioni rispetto ad un libro di poesie, non ne ho mai sentito l'esigenza, ma questo libro sembra mi sia stato messo tra le mani in questo preciso momento, in questo preciso giorno. Non ti descriverò molte cose, non credo che troverei le parole giuste. Forse solo la poesia può veramente spiegare. Ce ne sono due che sono andate particolarmente a fondo in questa raccolta e voglio semplicemente condividerle con te. Il resto lo lascio fare all'Universo.  
   
 Io non chiedo per voi l'eterna pace  
@@ -30,9 +30,9 @@ Siate voi.
 Non prego per voi. Prego voi.  
   
 
-Questo è un estratto del "Requiem" che chiude il libro. Non ti dico la leggerezza nel respiro che mi hanno messo questi versi, in questi giorni in cui i paesi si fanno più silenziosi, più cupi. Giorni in cui crediamo di poter ancora fare qualcosa per i morti. Giorni in cui c'è chi prega Dio in un mondo che perfino lui sembra aver abbandonato.   
+Questo è un estratto del *"Requiem"* che chiude il libro. Non ti dico la leggerezza nel respiro che mi hanno messo questi versi, in questi giorni in cui i paesi si fanno più silenziosi, più cupi. Giorni in cui crediamo di poter ancora fare qualcosa per i morti. Giorni in cui c'è chi prega Dio in un mondo che perfino lui sembra aver abbandonato.   
   
-*Voce appena dell'inviata*
+*Voce appena dell'inviata*  
 Io mangiavo il panino  
 e nessun morto mi toglieva l'appetito,  
 nessun morto mi disturbava il sonno.  

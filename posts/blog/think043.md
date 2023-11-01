@@ -4,7 +4,7 @@ subtitle: "Ricordi del bosco"
 abstract: "Documentare la mia vita"
 date: "2023-10-26"
 prev: "think042"
-next: "null"
+next: "think044"
 ---
 
 Caro E.,
