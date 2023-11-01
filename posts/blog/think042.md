@@ -62,7 +62,7 @@ La conclusione che è riassunto di tuto quello che ti ho scritto e introduzione 
 
 Ho cercato di dare un senso circolare a questa lista una sequenzialità in cui la fine richiami in un certo qual modo l'inizio, ma non so se ci sono riuscito.  
 
-Vedremo.
+Vedremo.  
 
 A presto,  
 M.
