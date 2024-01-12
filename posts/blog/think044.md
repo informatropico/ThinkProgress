@@ -4,7 +4,7 @@ subtitle: "Quando non morivo - Mariangela Gualtieri"
 abstract: "Come si fa?"
 date: "2023-11-01"
 prev: "think043"
-next: "null"
+next: "think045"
 ---
 
 Caro E.,  
