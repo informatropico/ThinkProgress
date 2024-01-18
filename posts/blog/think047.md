@@ -4,7 +4,7 @@ subtitle: "Capiamo le domande di aiuto?"
 abstract: "Distanze"
 date: "2024-01-12"
 prev: "think046"
-next: "null"
+next: "think048"
 ---
 
 Caro E.,  
