@@ -4,7 +4,7 @@ subtitle: "Fantasticare sul concetto di archè"
 abstract: "Essere realmente unici"
 date: "2024-01-18"
 prev: "think047"
-next: "null"
+next: "think049"
 ---
 
 Caro E.,  
